@@ -224,7 +224,7 @@ function wpml_reload_active_languages_setting( $override = false ) {
 		if ( $wpdb->query( "SHOW TABLES LIKE '{$wpdb->prefix}icl_languages'") ) {
 			$active_languages                       = $wpdb->get_col( "	SELECT code
 																	FROM {$wpdb->prefix}icl_languages
-																	WHERE active = 1" );
+																	WHERE active = 0" );
 		} else {
 			$active_languages = array();
 		}
