@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1ed457c-6328-4330-ac40-a186ba64efaa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/functions-load.php" afterPath="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/functions-load.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/sitepress-schema.php" afterPath="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/sitepress-schema.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/wpml-installation.class.php" afterPath="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/wpml-installation.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/twentyseventeen/functions.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="hooks.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/.versionpress/hooks.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>select code</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/sitepress-schema.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/functions-load.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/wpml-installation.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="qaz.local" id="cabd130e-9a85-47b1-949e-325df77d897b" name="qaz.local" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qaz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaz" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="qaz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="qaz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="qaz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sitepress-multilingual-cms" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="qaz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaz" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sitepress-multilingual-cms" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".versionpress" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1ed457c-6328-4330-ac40-a186ba64efaa" name="Default" comment="" />
+      <created>1515495300651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515495300651</updated>
+      <workItem from="1515495304811" duration="300000" />
+      <workItem from="1515759810425" duration="1639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1939000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/versionpress/.versionpress/actions.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/.versionpress/schema.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/wpml-installation.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="358" column="109" lean-forward="false" selection-start-line="358" selection-start-column="109" selection-end-line="358" selection-end-column="109" />
+          <folding>
+            <marker date="1515760396031" expanded="true" signature="1171:1237" ph="SELECT code $" />
+            <marker date="1515760396031" expanded="true" signature="1379:1454" ph="SELECT defau... $" />
+            <marker date="1515760396031" expanded="true" signature="2138:2222" ph="SELECT defau... $" />
+            <marker date="1515760396031" expanded="true" signature="2405:2481" ph="SELECT code $" />
+            <marker date="1515760396031" expanded="true" signature="3007:3112" ph="UPDATE ${{$t... " />
+            <marker date="1515760396031" expanded="true" signature="3146:3255" ph="UPDATE ${{$t... " />
+            <marker date="1515760396031" expanded="true" signature="5873:6024" ph="SELECT term_... $" />
+            <marker date="1515760396031" expanded="true" signature="7118:8009" ph="SELECT l.cod... $" />
+            <marker date="1515760396031" expanded="true" signature="10401:10489" ph="SELECT trans... $" />
+            <marker date="1515760396031" expanded="true" signature="10692:10810" ph="INSERT INTO $... " />
+            <marker date="1515760396031" expanded="true" signature="10814:10973" ph="SELECT CONCA... " />
+            <marker date="1515760396031" expanded="true" signature="11041:11100" ph="SELECT MAX(t... $" />
+            <marker date="1515760396031" expanded="true" signature="11289:11407" ph="INSERT INTO $... " />
+            <marker date="1515760396031" expanded="true" signature="11412:11524" ph="SELECT %s, t... " />
+            <marker date="1515760396031" expanded="true" signature="11722:11781" ph="SELECT MAX(t... $" />
+            <marker date="1515760396031" expanded="true" signature="11847:11965" ph="INSERT INTO $... " />
+            <marker date="1515760396031" expanded="true" signature="11969:12036" ph="SELECT 'comm... " />
+            <marker date="1515760396031" expanded="true" signature="12298:12366" ph="SELECT code $" />
+            <marker date="1515760396031" expanded="true" signature="12783:12887" ph="UPDATE ${{$t... " />
+            <marker date="1515760396031" expanded="true" signature="13027:13078" ph="SELECT code $" />
+            <marker date="1515760396031" expanded="true" signature="13184:13257" ph="SELECT lang_... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/setup/sitepress-schema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="92" lean-forward="false" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
+          <folding>
+            <marker date="1515760243401" expanded="true" signature="134:196" ph="SELECT code $" />
+            <marker date="1515760243401" expanded="true" signature="577:673" ph="UPDATE ${{$w... " />
+            <marker date="1515760243401" expanded="true" signature="786:831" ph="SELECT code $" />
+            <marker date="1515760243401" expanded="true" signature="937:1004" ph="SELECT lang_... $" />
+            <marker date="1515760243401" expanded="true" signature="2472:3149" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="3483:4309" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="4647:5247" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="5580:6271" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="6608:6954" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="7296:7510" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="7838:8875" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="9199:10004" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="10304:10711" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="11014:11328" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="11655:12414" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="12609:13008" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="13183:13485" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="13661:13897" ph="CREATE TABLE... IF" />
+            <marker date="1515760243401" expanded="true" signature="14074:14371" ph="CREATE TABLE... IF" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/inc/functions-load.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="226" column="88" lean-forward="false" selection-start-line="226" selection-start-column="88" selection-end-line="226" selection-end-column="88" />
+          <folding>
+            <marker date="1515760344119" expanded="true" signature="8245:8341" ph="SELECT code $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/sitepress-multilingual-cms/.versionpress/hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

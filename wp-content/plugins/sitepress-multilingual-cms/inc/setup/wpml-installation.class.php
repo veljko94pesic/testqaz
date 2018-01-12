@@ -356,7 +356,7 @@ class WPML_Installation extends WPML_WPDB_And_SP_User {
 	function reset_language_data() {
 		global $sitepress;
 
-		$active = $this->wpdb->get_col( "SELECT code FROM {$this->wpdb->prefix}icl_languages WHERE active = 0" );
+		$active = $this->wpdb->get_col( "SELECT code FROM {$this->wpdb->prefix}icl_languages WHERE active = 1" );
 		$this->wpdb->query( "TRUNCATE TABLE `{$this->wpdb->prefix}icl_languages`" );
 		SitePress_Setup::fill_languages();
 		$this->wpdb->query( "TRUNCATE TABLE `{$this->wpdb->prefix}icl_languages_translations`" );

@@ -6,7 +6,7 @@
 function icl_reset_language_data(){
     global $wpdb, $sitepress;
 
-    $active = $wpdb->get_col("SELECT code FROM {$wpdb->prefix}icl_languages WHERE active = 0");
+    $active = $wpdb->get_col("SELECT code FROM {$wpdb->prefix}icl_languages WHERE active = 1");
 
     $wpdb->query("TRUNCATE TABLE `{$wpdb->prefix}icl_languages`");
     SitePress_Setup::fill_languages();
